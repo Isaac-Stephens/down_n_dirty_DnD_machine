@@ -1,11 +1,5 @@
 # DnD Stat Machine
 
-**Repository:** [DnD Stat Machine - GitHub](https://github.com/Isaac-Stephens/DnD_stat_machine)  
-**Developer:** Isaac Stephens  
-**Language:** C++  
-**GUI Library:** Dear ImGui  
-**Graphics API:** Vulkan  
-
 ## Overview
 DnD Stat Machine is a C++ application designed to streamline Dungeons & Dragons character creation and stat generation. The project leverages **Dear ImGui** for a user-friendly graphical interface and **Vulkan** for rendering. It provides an intuitive way to roll dice, assign attributes, and manage character data efficiently.
 
@@ -55,7 +49,7 @@ _This project is still in early development._
    ```
 
 ## Contributions
-Contributions are welcome! Feel free to fork the repository, create a feature branch, and submit a pull request. However this is a small passion project for fun so I work on it when I can.
+Contributions are welcome! Feel free to fork the repository, create a feature branch, and submit a pull request. However this is a small passion project for fun so I only work on it when I can.
 
 ## License
 This project is licensed under the MIT License and the Open Gaming License. See `LEGAL` for more details.
